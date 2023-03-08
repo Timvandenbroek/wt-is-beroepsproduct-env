@@ -8,3 +8,6 @@ if (isset($_SESSION['keren_bezocht'])) {
 }
 
 print_r($_SESSION);
+
+
+?>
